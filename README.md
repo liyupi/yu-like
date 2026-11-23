@@ -6,7 +6,7 @@
 
 由 [编程导航团队](https://www.codefather.cn/) [@松柏](https://www.codefather.cn/user/1626574509983178753) + [@yes](https://www.codefather.cn/user/1788461898925084673) + [@程序员鱼皮](http://dogyupi.com/) 联合打造
 
-[视频介绍](https://www.bilibili.com/video/BV1Eq5DzcE9o) · [免费试看课程](https://www.codefather.cn/course/yulike) · [项目介绍](#-项目介绍) · [三大架构阶段](#-项目三大阶段演进) · [核心收获](#-项目收获) · [技术选型](#-技术选型) · [常见问题](#-常见问题) · [加入学习](#-加入编程导航学习)
+[视频介绍](https://www.bilibili.com/video/BV1Eq5DzcE9o) · [免费试看课程](https://www.codefather.cn/course/yulike) · [项目介绍](#-项目介绍) · [三大架构阶段](#-项目三大阶段演进) · [核心收获](#-项目收获) · [技术选型](#-技术选型与仓库结构) · [常见问题](#-常见问题) · [加入学习](#-加入编程导航学习)
 
 </div>
 
